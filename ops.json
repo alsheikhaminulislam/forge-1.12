@@ -1,0 +1,14 @@
+[
+  {
+    "uuid": "0b35367f-8170-320e-b2aa-be8a41f3db34",
+    "name": "alsheikhaminul",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "aa4370d7-17cc-3688-a8c6-050ab31886f3",
+    "name": "enable-command-block",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
